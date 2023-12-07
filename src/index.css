@@ -1,7 +1,7 @@
 /* CSS Custom Properties */
 :root {
-  --white: #FFFFFF;
-  --tan-1: #FBF9F6;
+  --white: #973737;
+  --tan-1: #a40f07;
   --tan-2: #E7E2DD;
   --tan-3: #E2D9D1;
   --tan-4: #D3C1AE;
@@ -21,7 +21,7 @@ body {
   sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: var(--tan-4);
+  background-color: rgb(168, 158, 158);
   padding: 2vmin;
   height: 100vh;
 }
